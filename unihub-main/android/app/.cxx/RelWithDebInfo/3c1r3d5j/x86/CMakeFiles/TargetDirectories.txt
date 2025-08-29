@@ -1,0 +1,2 @@
+/Users/apple/AndroidStudioProjects/unihub_frontend/android/app/.cxx/RelWithDebInfo/3c1r3d5j/x86/CMakeFiles/edit_cache.dir
+/Users/apple/AndroidStudioProjects/unihub_frontend/android/app/.cxx/RelWithDebInfo/3c1r3d5j/x86/CMakeFiles/rebuild_cache.dir

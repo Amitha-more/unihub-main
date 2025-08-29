@@ -1,0 +1,1 @@
+/Users/apple/AndroidStudioProjects/unihub_frontend/build/app/intermediates/cxx/RelWithDebInfo/3c1r3d5j/obj/x86
